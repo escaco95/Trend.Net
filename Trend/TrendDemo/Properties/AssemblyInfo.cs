@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // 어셈블리에 대한 일반 정보는 다음 특성 집합을 통해 
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
-[assembly: AssemblyTitle("Trend")]
-[assembly: AssemblyDescription("UI Library")]
+[assembly: AssemblyTitle("TrendDemo")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ARCODA")]
-[assembly: AssemblyProduct("Trend")]
-[assembly: AssemblyCopyright("Copyright © ARCODA 2021")]
-[assembly: AssemblyTrademark("ARCODA Trend")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("TrendDemo")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // ComVisible을 false로 설정하면 이 어셈블리의 형식이 COM 구성 요소에 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 이 프로젝트가 COM에 노출되는 경우 다음 GUID는 typelib의 ID를 나타냅니다.
-[assembly: Guid("71db634f-bb12-43d3-9f29-f83a4afe6f84")]
+[assembly: Guid("dce17733-eef8-46fa-8937-987c30f6725c")]
 
 // 어셈블리의 버전 정보는 다음 네 가지 값으로 구성됩니다.
 //
